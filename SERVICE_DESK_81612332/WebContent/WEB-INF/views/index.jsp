@@ -24,7 +24,7 @@
         <div class="jumbotron">
             <h2> Sistema de Chamados </h2>
             <h1>Arquitetura de Software</h1>
-            <p>Tainá Monteiro Gomes - 817119056</p>
+            <p>Gabrielle Nascimento- 81612332</p>
             <span class="glyphicon glyphicon-copyright-mark" aria-hidden="true"></span> USJT - 2018
         </div>
     </div>
