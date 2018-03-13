@@ -16,7 +16,7 @@ import br.usjt.arqsw.service.FilaService;
 
 /**
  * 
- * @author 81612332 Gabrielle Nascimento da Anunciação SIN3AN-MCA - USJt
+ * @author  81612332 Gabrielle Nascimento da Anunciação SIN3AN-MCA
  */
 
 

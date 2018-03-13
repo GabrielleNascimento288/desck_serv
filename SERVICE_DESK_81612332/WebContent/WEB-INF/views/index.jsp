@@ -1,4 +1,4 @@
-<%--81612332 Gabrielle Nascimento da Anunciação SIN3AN-MCA | USJT MOOCA--%>
+<%-- 81612332 Gabrielle Nascimento da Anunciação | USJT MOOCA--%>
 
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
@@ -24,7 +24,7 @@
         <div class="jumbotron">
             <h2> Sistema de Chamados </h2>
             <h1>Arquitetura de Software</h1>
-            <p>Gabrielle Nascimento- 81612332</p>
+            <p> 81612332 Gabrielle Nascimento da Anunciação</p>
             <span class="glyphicon glyphicon-copyright-mark" aria-hidden="true"></span> USJT - 2018
         </div>
     </div>

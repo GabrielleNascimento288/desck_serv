@@ -1,4 +1,4 @@
-<%--81612332 Gabrielle Nascimento da Anunciação SIN3AN-MCA | USJT MOOCA--%>
+<%-- 81612332 Gabrielle Nascimento da Anunciação | USJT MOOCA--%>
 
 
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
